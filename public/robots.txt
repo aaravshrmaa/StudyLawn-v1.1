@@ -1,0 +1,6 @@
+# Allow all search engines and web crawlers to index every page
+User-agent: *
+Allow: /
+
+# Sitemap index
+Sitemap: https://studylawn.vercel.app/sitemap.xml

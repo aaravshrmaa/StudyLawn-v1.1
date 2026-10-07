@@ -1,0 +1,8 @@
+{
+  "name": "StudyLawn v1.1",
+  "description": "StudyLawn: a distraction-free daily study workspace with custom timers, timetable planner, task lists, and revision notes! ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
