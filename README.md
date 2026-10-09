@@ -21,8 +21,6 @@
 ---
 ## 📸 Check out Studylawn
 
-StudyLawn is crafted with meticulous typography and distraction-free editorial themes tailored for prolonged study sessions without eye strain.
-
 ### https://studylawn.vercel.app/
 Check out Studylawn for instant access to the latest updates.
 
